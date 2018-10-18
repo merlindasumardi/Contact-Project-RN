@@ -11,7 +11,7 @@ Development using Node version 10.
 ## Installing
 
 ```
-git clone https://merlindasumardi@bitbucket.org/merlindasumardi/starwars.git 
+git clone https://github.com/merlindasumardi/Contact-Project-RN.git 
 cd contact
 npm install
 
